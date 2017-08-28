@@ -60,7 +60,7 @@
 		 			</table>
 		 			<div>
 		 				<input type="text" class="item_quantity" value="1" />
-						<input type="button" class="item_add items" value="Add to Cart">
+						<a href=""><input type="button" class="item_add items" value="Add to Cart"></a>
 					</div>
 		 		</div>
 		 	</div>

@@ -44,7 +44,7 @@
 			  		<div class="product-info simpleCart_shelfItem">
 						<div class="product-info-cust prt_name">
 							<h4><%= element.getTitle() %></h4>
-							<p>ID: <%= element.getSku() %></p>
+							<p>SKU: <%= element.getSku() %></p>
 							<span class="item_price">$<%= element.getPrice() %></span>								
 							<input type="text" class="item_quantity" value="1" />
 							<input type="button" class="item_add items" value="Add to Cart">
